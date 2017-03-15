@@ -48,7 +48,7 @@ body {
     letter-spacing: 1px;
     height: 100%;
     font-family: 'Poppins', sans-serif;
-    background: url('../images/sky.jpg') no-repeat center center fixed;
+    background: no-repeat center center fixed;
 }
 
 html,
@@ -1184,7 +1184,7 @@ ul.portfolio li.active {
 .footer-section {
     background: url(../images/bg/footer-bg.png);
 	background-repeat: repeat;
-    padding: 80px 0px;
+    padding: 40px 0px;
     color: #f8f8f8;
 }
 
