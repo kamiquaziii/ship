@@ -254,7 +254,7 @@ fieldset {
 /* Preloader */
 
 .preloader {
-    background: url(../images/bg/pattern-bg.png);
+    background: #f9f9f9;
     bottom: 0;
     left: 0;
     position: fixed;
@@ -547,7 +547,7 @@ tr > td:nth-child(2) {
 /* About */
 
 .about {
-	background: url(../images/bg/pattern-bg.png);
+	background: url(../images/bg/shipback1.png);
 }
 
 .about-me-text {
