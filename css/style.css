@@ -254,7 +254,7 @@ fieldset {
 /* Preloader */
 
 .preloader {
-    background: #F9F9F9;
+    background: url(../images/bg/pattern-bg.png);
     bottom: 0;
     left: 0;
     position: fixed;
@@ -547,7 +547,7 @@ tr > td:nth-child(2) {
 /* About */
 
 .about {
-	background: #F9F9F9;
+	background: url(../images/bg/pattern-bg.png);
 }
 
 .about-me-text {
@@ -819,7 +819,7 @@ ul.portfolio li.active {
 /* Testimonial */
 
 .testimonial-section {
-    background: #F9F9F9;
+    background: url(../images/bg/pattern-bg.png);
 }
 
 .testimonial-carousel-list {
@@ -954,7 +954,7 @@ ul.portfolio li.active {
 /* signup */
 
 .signup-section {
-  background-color: #F9F9F9;
+  background-color: #f9f9f9;
 }
 
 .signup-section hr {
