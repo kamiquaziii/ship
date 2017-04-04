@@ -547,7 +547,7 @@ tr > td:nth-child(2) {
 /* About */
 
 .about {
-	background: url(../images/bg/shipback1.png);
+	background: url(../images/bg/pattern-bg.png);
 }
 
 .about-me-text {
@@ -570,6 +570,34 @@ tr > td:nth-child(2) {
     border-radius: 50%;
     line-height: 61px;
 	margin-right: 5px;
+}
+
+/*sign */
+
+.sign {
+  background: url(../images/bg/shipback1.png);
+}
+
+.sign-text {
+  padding: 50px;
+  background-color: #ffffff;
+  box-shadow: -2px 40px 34px -24px rgba(0, 0, 0, 0.2);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: solid 7px #4c9cef;
+    border-left-color: #f7639a;
+    border-right-color: #f7639a;
+}
+
+.sign-text p:first-letter {
+  font-size: 35px;
+    color: #ffffff;
+    background: #f7639a;
+    padding: 0px 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 61px;
+  margin-right: 5px;
 }
 
 
